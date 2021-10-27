@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\ReadingFromFile\\ReadingFromFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\ReadingFromFile\\ReadingFromFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
-        "projectName": "FileSystem",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\ReadingFromFile\\ReadingFromFile.csproj",
+        "projectName": "ReadingFromFile",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\ReadingFromFile\\ReadingFromFile.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\ReadingFromFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

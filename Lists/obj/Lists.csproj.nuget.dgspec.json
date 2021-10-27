@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\Lists\\Lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\Lists\\Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
-        "projectName": "FileSystem",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\Lists\\Lists.csproj",
+        "projectName": "Lists",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\Lists\\Lists.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\Lists\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileCreate\\FileCreate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileCreate\\FileCreate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
-        "projectName": "FileSystem",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileCreate\\FileCreate.csproj",
+        "projectName": "FileCreate",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileCreate\\FileCreate.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileSystem\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TiTpe21\\Week9-FileSystem\\FileCreate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
